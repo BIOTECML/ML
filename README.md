@@ -59,4 +59,3 @@ En la tabla siguiente se presenta la guión de contenidos del material desarrola
 | | *Análisis de series temporales*  | Regresión | 4 |
 
 
-Dentro de cada bloque se presentan los requisitos previos para su desarrollo, una breve descripción de contenidos, y un listado de los cuadernos que contiene indicando el nombre del cuaderno, enlace de acceso al cuaderno en google colab, y el nivel de dificultad del cuaderno (Básico = ★☆☆ , Intermedio = ★★☆, Avanzado = ★★★). También se proporciona la fecha de la última actualización de los contenidos.
