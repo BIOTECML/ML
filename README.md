@@ -1,4 +1,4 @@
-<small><img src=https://raw.githubusercontent.com/ia4legos/MachineLearning/main/images/IASAC-UMH.png width="650" height="350"></small>
+<small><img src=https://raw.githubusercontent.com/ia4legos/MachineLearning/main/images/IASAC-UMH.png width="650" height="300"></small>
 
 # <font color='steelblue'> Librerías de Machine Learning</font>
 
